@@ -40,4 +40,4 @@ A funcionalidade utiliza a pseudoclasse `:hover` e a propriedade `transition`.
 
 ## Publicação
 
-**Link do site:** será adicionado após a publicação no GitHub Pages.
+**Link do site:** https://thiagoguitarreiro2-star.github.io/portifolio/
